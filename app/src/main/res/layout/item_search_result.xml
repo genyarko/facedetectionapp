@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:theme="@style/Theme.AppCompat.NoActionBar"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <!-- Example: Display detected label text -->
+    <TextView
+        android:id="@+id/textViewProductName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/purple_200"
+        android:text="Label: "
+        android:textSize="16sp"/>
+
+    <!-- Example: Display bounding box information -->
+    <TextView
+        android:id="@+id/textViewBoundingBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/purple_500"
+        android:text="Bounding Box: "
+        android:textSize="16sp"/>
+
+    <!-- Example: Display product search queries -->
+    <TextView
+
+        android:id="@+id/textViewProductDetails"
+        android:textColor="@color/purple_700"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Product Queries: "
+        android:textSize="16sp"/>
+</LinearLayout>

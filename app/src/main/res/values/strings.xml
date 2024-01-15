@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Face Detection</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Search_results">Search results: …</string>
+    <string name="detected">Detected</string>
+    <string name="label">Label:</string>
+    <string name="labeling_comes_here">Labeling comes here</string>
+    <string name="image_generated_from_camera_or_chosen_from_storage">image generated from camera or chosen from storage</string>
+    <string name="ai_object_detection">AI OBJECT DETECTION</string>
+    <string name="face_and_text">Face and Text Ai</string>
+    <string name="label_and_detection">Label and Detection</string>
+    <string name="object_detection">Object Detection</string>
+</resources>
