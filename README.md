@@ -13,7 +13,6 @@ This repository contains a comprehensive Android application that leverages vari
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -23,7 +22,7 @@ To use this application, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/face-detection-android-app.git
+   git clone https://github.com/genyarko/face-detection-android-app.git
    cd face-detection-android-app
    Open the project in Android Studio:
 
